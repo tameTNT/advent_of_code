@@ -2,5 +2,6 @@
 **/.idea/
 **/__pycache__/
 
+# only track cpp files for 2024 and not built executables
 2024/**
 !2024/**/*.cpp
